@@ -1,92 +1,54 @@
-# 👋 Hi, I'm Irfan – Flutter Developer | Full-Stack Capable
+<h1 align="center">👋 Hi, I'm Irfan</h1>
+<h3 align="center">Flutter Developer | Full-Stack Capable</h3>
 
-I’m a passionate and detail-oriented Flutter developer with strong experience building robust, production-ready mobile apps. I love crafting smooth user experiences and solving real-world problems using Flutter, with the flexibility to design custom backends using Node.js and MongoDB when needed.
+<p align="center">
+  Passionate and detail-oriented Flutter developer with a strong foundation in building robust, production-ready mobile apps. I enjoy crafting seamless user experiences and solving real-world problems using Flutter, with the flexibility to build custom backends using Node.js and MongoDB when needed.
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-- 🧱 Build clean, maintainable Flutter apps with modern architecture (Provider, Riverpod, Bloc)
-- 🧩 Integrate APIs, local storage (Isar, Hive, SQLite), and real-time databases (Firebase & Supabase)
-- 🔐 Implement secure data storage using encryption
-- 📊 Visualize data with charts and animations
-- 🧠 Structure backends with Node.js + Express + MongoDB for custom APIs and authentication
-- 🛠️ Familiar with JWT, RBAC, file uploads, validation, and deployment (Render/Railway)
+- 🧱 Build **clean, scalable Flutter apps** using modern state management (Provider, Riverpod, Bloc)
+- 🧩 Work with **local databases** (Isar, Hive, SQLite) and **real-time services** (Firebase & Supabase)
+- 🔐 Implement **secure data handling** using encryption packages
+- 📊 Add **interactive charts, analytics, and animations** for rich user experiences
+- 🧠 Build **custom REST APIs** with Node.js + Express + MongoDB
+- 🛠️ Deploy full-stack solutions using **JWT**, **RBAC**, **file uploads**, and platforms like **Render** or **Railway**
 
 ---
 
 ## 📱 Featured Projects
 
-### 📓 [Notes App](https://github.com/irfan709/Notes_App)
-Basic CRUD app to create, edit, and delete notes. Includes local storage and search.
+Here are some of the apps I've built. All projects are open-source and available on GitHub:
 
-**Tech Stack:** Flutter, Provider, sqflite
-
----
-
-### ✅ [Task Manager](https://github.com/irfan709/Task_Manager)
-Organize tasks by priority, mark them as completed, and filter completed tasks.
-
-**Tech Stack:** Flutter, Hive, Cubit
-
----
-
-### 🔐 [Password Manager](https://github.com/irfan709/Password_Manager)
-Securely store passwords by category with AES encryption, search, and filtering.
-
-**Tech Stack:** Flutter, Isar, Bloc, encryption package
-
----
-
-### 💸 [Expense Manager](https://github.com/irfan709/Expense_Manager)
-Track income and expenses, filter by date range, and visualize spending with interactive charts.
-
-**Tech Stack:** Flutter, Isar, Riverpod, fl_chart
-
----
-
-### 🧠 [Flashcards App](https://github.com/irfan709/Flash_Cards)
-Create decks of flashcards with animated flip effects and user authentication via Supabase.
-
-**Tech Stack:** Flutter, Supabase, Riverpod, built-in animations
-
----
-
-### 💬 [Chat App](https://github.com/irfan709/Chat_App)
-Real-time messaging app with Firebase Auth and Firestore, user presence, and chat sync.
-
-**Tech Stack:** Flutter, Firebase Auth, Firestore Realtime DB
-
----
-
-### 📰 [News App](https://github.com/irfan709/News_App)
-Browse categorized news (tech, science, etc.), view article details, and bookmark favorites.
-
-**Tech Stack:** Flutter, Riverpod, http, Isar, News API
-
----
-
-### ❌ [Tic Tac Toe Game](https://github.com/irfan709/Tic_Tac_Toe)
-Simple 2-player Tic Tac Toe game with reset functionality and game state tracking.
-
-**Tech Stack:** Flutter (custom UI)
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 📓 [Notes App](https://github.com/irfan709/Notes_App) | Basic CRUD with local SQLite and search functionality | Flutter, Provider, sqflite |
+| ✅ [Task Manager](https://github.com/irfan709/Task_Manager) | Task tracking with priorities and completion filtering | Flutter, Hive, Cubit |
+| 🔐 [Password Manager](https://github.com/irfan709/Password_Manager) | Category-wise password storage with AES encryption & search | Flutter, Bloc, Isar, encryption |
+| 💸 [Expense Manager](https://github.com/irfan709/Expense_Manager) | Manage expenses & income, filter by date, and view charts | Flutter, Riverpod, Isar, fl_chart |
+| 🧠 [Flashcards App](https://github.com/irfan709/Flash_Cards) | Animated flashcard decks with Supabase authentication | Flutter, Supabase, Riverpod |
+| 💬 [Chat App](https://github.com/irfan709/Chat_App) | Real-time messaging with Firebase Auth & Firestore | Flutter, Firebase |
+| 📰 [News App](https://github.com/irfan709/News_App) | Browse and bookmark news by category (tech, science, etc.) | Flutter, Riverpod, Isar, News API |
+| ❌ [Tic Tac Toe Game](https://github.com/irfan709/Tic_Tac_Toe) | Classic 2-player game with reset and game state tracking | Flutter |
 
 ---
 
 ## 🌐 Backend Skills
 
-While Flutter is my primary focus, I’m also comfortable building backends using:
+While Flutter is my primary focus, I’m also experienced in building custom backend services:
 
-- **Node.js + Express**
-- **MongoDB (Mongoose/ORMs)**
-- **JWT authentication**
-- **Secure RESTful APIs**
-- **Middleware, validation, error handling**
-- **Deployment with Render or Railway**
+- ⚙️ **Node.js + Express** for REST APIs
+- 🛢️ **MongoDB** with Mongoose/ORMs
+- 🔑 **JWT Authentication** with RBAC
+- 🧪 Middleware, input validation, and centralized error handling
+- 🚀 Deployment using **Render**, **Railway**, or other cloud platforms
 
-These backend skills allow me to create fully custom solutions and integrate them seamlessly with my Flutter apps.
+These backend capabilities allow me to create end-to-end solutions and integrate them cleanly with Flutter apps.
 
 ---
+
 
 ## 📫 Contact
 
