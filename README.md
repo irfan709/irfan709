@@ -37,6 +37,7 @@
 | 💬 [**Chat App**](https://github.com/irfan709/ChatX) | A 1-on-1 real-time chat app built with clean architecture. It features phone authentication, real-time messaging via Firestore, push notifications using Firebase Cloud Messaging, and contact syncing to identify registered users. | Flutter · Firebase Auth · Firestore · FCM · Contacts Service · Permission Handler · Riverpod |
 | 📰 [**News App**](https://github.com/irfan709/News_App) | Browse categorized news (Tech, Science, etc.) from News API. Users can read full articles, bookmark favorites, and view saved articles offline. | Flutter · Riverpod · Isar · News API |
 | ❌ [**Tic Tac Toe**](https://github.com/irfan709/Tic_Tac_Toe) | A 2-player local Tic Tac Toe game with a clean UI, game reset option, and state handling. Great for showcasing basic logic and UI skills. | Flutter |
+| 📌 [**Request Handling Workflow**](https://github.com/irfan709/Request_Handling) | A full-stack workflow system with **role-based access**. End Users can create and track requests, while Receivers review and update them. Includes **real-time updates** with Socket.IO, JWT authentication, and mobile app frontend built in Flutter. | Flutter · Node.js · Express · MongoDB · Socket.IO · JWT |
 
 ---
 
